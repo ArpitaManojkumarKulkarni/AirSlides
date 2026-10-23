@@ -44,6 +44,7 @@ source venv/bin/activate
 
 # 4. Install dependencies
 pip install -r requirements.txt
+```
 
 ## Project Contributors
 
