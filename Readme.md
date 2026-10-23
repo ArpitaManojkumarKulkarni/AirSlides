@@ -30,7 +30,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/khushi-saxena/AirSlides.git
+git clone https://github.com/ArpitaManojkumarKulkarni/AirSlides.git
 cd AirSlides
 
 # 2. Create a Python virtual environment
