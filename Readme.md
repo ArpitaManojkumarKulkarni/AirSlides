@@ -44,3 +44,13 @@ source venv/bin/activate
 
 # 4. Install dependencies
 pip install -r requirements.txt
+
+## Project Contributors
+
+AirSlides was developed as a collaborative academic project by:
+
+- Arpita Manojkumar Kulkarni
+- Khushi Saxena
+- Rucha Dave
+
+This repository contains the shared project implementation and preserves its original development history.
